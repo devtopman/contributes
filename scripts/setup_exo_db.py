@@ -366,7 +366,7 @@ def main():
     cursor.execute("CREATE INDEX StopTimesIndexTripId ON StopTimes(trip_id);")
     cursor.execute("CREATE INDEX TripsIndexTripId ON Trips(trip_id);")
     print("Successfully created index for table StopTimes")
-    conn.close()
-
+    
+conn.close()
 if __name__ == "__main__":
     main()

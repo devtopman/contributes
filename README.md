@@ -12,7 +12,7 @@ at their websites.
 > Part of the code is being refactored to follow as much as possible clean architecture. Some new bugs may therefore have appeared.
 
 # Features
-- Check bus schedules
+- Check bus schedules.
 - Add them to favourite to access them on the home screen
 The above needs no internet connection to work
 > Note: The first time you open the app, you may encounter some latency when you search for a bus.

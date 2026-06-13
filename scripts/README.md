@@ -22,7 +22,7 @@ To initialise all the databases, run this command (for windows):
 or this command (for linux):
 ```bash
 ./initall.sh [<agency-name>] [--no-download | --help]
-```
+``` 
 
 The **--no-download** flag is used to only initialise the databases, without downloading
 the required data (assuming that they have already been downloaded).

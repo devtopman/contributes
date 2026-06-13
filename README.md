@@ -11,7 +11,7 @@ at their websites.
 > [!WARNING]
 > Part of the code is being refactored to follow as much as possible clean architecture. Some new bugs may therefore have appeared.
 
-# Features
+# Features.
 - Check bus schedules.
 - Add them to favourite to access them on the home screen.
 The above needs no internet connection to work

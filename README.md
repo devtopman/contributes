@@ -41,6 +41,5 @@ to build it.
 The application is still in alpha version. It is not fully completed and may contain bugs. 
 We are trying to fix these and implement the features ASAP.
 
-
 Co-authored-by: codegod0311 <oleksandrkamchatov@gmail.com>
 

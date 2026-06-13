@@ -35,7 +35,7 @@ You can then run
 ```
 ./gradlew build
 ```
-to build it.
+to build it..
 
 # Disclaimer
 The application is still in alpha version. It is not fully completed and may contain bugs. 

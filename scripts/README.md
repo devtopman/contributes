@@ -7,7 +7,7 @@ and [Exo](https://exo.quebec/en/about/open-data).
 # Usage
 If you are using Windows, enable permission to run powershell scripts.
 
-For linux users, ensure the script is executable by running:
+For linux users, ensure the script is executable by running:.
 ```bash
 chmod u+x initall.sh
 ```
@@ -26,4 +26,3 @@ or this command (for linux):
 
 The **--no-download** flag is used to only initialise the databases, without downloading
 the required data (assuming that they have already been downloaded).
-

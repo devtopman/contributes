@@ -12,8 +12,8 @@ at their websites.
 > Part of the code is being refactored to follow as much as possible clean architecture. Some new bugs may therefore have appeared.
 
 # Features
-- Check bus schedules
-- Add them to favourite to access them on the home screen
+- Check bus schedules.
+- Add them to favourite to access them on the home screen.
 The above needs no internet connection to work
 > Note: The first time you open the app, you may encounter some latency when you search for a bus.
 This is normal, give the app about 10 seconds so that it has time to cache the data.
@@ -40,3 +40,6 @@ to build it.
 # Disclaimer
 The application is still in alpha version. It is not fully completed and may contain bugs. 
 We are trying to fix these and implement the features ASAP.
+
+Co-authored-by: codegod0311 <oleksandrkamchatov@gmail.com>
+

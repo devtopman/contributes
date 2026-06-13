@@ -7,7 +7,7 @@ and [Exo](https://exo.quebec/en/about/open-data).
 # Usage
 If you are using Windows, enable permission to run powershell scripts.
 
-For linux users, ensure the script is executable by running:
+For linux users, ensure the script is executable by running:.
 ```bash
 chmod u+x initall.sh
 ```
